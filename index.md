@@ -19,6 +19,19 @@ Language used : Swift
 
 Clone the repo for more details [BCARD-AR](https://github.com/THAANURK/BCardAr).
 
+## Devsterz
+
+```
+A social network for connecting with developers and showing development portfolios.
+
+Supported version : IOS 10 + 
+Language used : Swift
+
+```
+
+Clone the repo for more details [DEVSTERZ](https://github.com/THAANURK/BCardAr).
+
+
 ## VAULTO
 
 ```
