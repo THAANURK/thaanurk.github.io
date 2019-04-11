@@ -8,7 +8,8 @@ I work around with IOS App development, data scrapping, Game designing and backe
 
 ```
 BcardAr
-This is a Business card viewer application with Augmented reality feature. It uses Apple's native CORE AR and CORE VISION framework. 
+This is a Business card viewer application with Augmented reality feature. 
+It uses Apple's native CORE AR and CORE VISION framework. 
 
 Supported version : IOS 10 + 
 Language used : Swift
