@@ -4,6 +4,8 @@ You can see things that are not there in my resume, these items are developed in
 
 I work around with IOS App development, data scrapping, Game designing and backend development.
 
+                                         IOS Applications
+
 ### BcardAr
 
 ```
@@ -31,7 +33,7 @@ Language used : Swift
 ```
 Clone the repo for more details [BCARD-AR](https://github.com/THAANURK/BCardAr).
 
-                                            ### Data scrapping
+                                             Data scrapping
 
 ### Data scrapping
 
@@ -45,4 +47,4 @@ Clone the repo for more details [Data-Scrapping](https://github.com/THAANURK/Fli
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Willing to work or need any support in development [Email_me @](shree96thaanu@gmail.com) or [call me @ ] 9597435672 
