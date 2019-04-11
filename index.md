@@ -60,4 +60,4 @@ Clone the repo for more details [Data-Scrapping](https://github.com/THAANURK/Fli
 
 ## Support or Contact
 
-Willing to work or need any support in development [Email_me @](shree96thaanu@gmail.com) or [call me @ ] 9597435672 
+Willing to work or need any support in development [Email_me @ shree96thaanu@gmail.com] or [call me @ ] 9597435672 
