@@ -4,9 +4,7 @@ You can see things that are not there in my resume, these items are developed in
 
 I work around with IOS App development, data scrapping, Game designing and backend development.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### IOS
 
 ```markdown
 Syntax highlighted code block
