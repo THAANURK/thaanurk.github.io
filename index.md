@@ -4,7 +4,7 @@ You can see things that are not there in my resume, these items are developed in
 
 I work around with IOS App development, data scrapping, Game designing and backend development.
 
-### IOS
+### BcardAr
 
 ```
 BcardAr
@@ -16,6 +16,19 @@ Language used : Swift
 
 ```
 
+Clone the repo for more details [BCARD-AR](https://github.com/THAANURK/BCardAr).
+
+### VAULTO
+
+```
+
+This is a photo and card vault application with extended features of the most famous app Vault. 
+It uses Apple's native CORE camera and CORE Data. 
+
+Supported version : IOS 10 + 
+Language used : Swift
+
+```
 Clone the repo for more details [BCARD-AR](https://github.com/THAANURK/BCardAr).
 
 ### Data scrapping
