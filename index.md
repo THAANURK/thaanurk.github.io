@@ -15,7 +15,7 @@ Language used : Swift
 
 ```
 
-For more details see [BCARD-AR](https://github.com/THAANURK/BCardAr).
+Clone the repo for more details [BCARD-AR](https://github.com/THAANURK/BCardAr).
 
 ### Data scrapping
 
