@@ -33,7 +33,13 @@ Clone the repo for more details [BCARD-AR](https://github.com/THAANURK/BCardAr).
 
 ### Data scrapping
 
-Data scrapping for ECommerce projects. I used this to find the top selling products to avoid the problem of importing unwanted products. Also i used the ratings and reviews to find the problems with the products via sentiment analysis.  [ECommerce Data scrapping](https://github.com/THAANURK/FlipkartScrapper). To use this change the class name of the product by inspecting the needed element `class_name`.
+```
+ I used this to find the top selling products to avoid the problem of importing unwanted products. 
+ Also i used the ratings and reviews to find the problems with the products via sentiment analysis. 
+ To use this change the class name of the product by inspecting the needed element `class_name`.
+ 
+```
+Clone the repo for more details [Data-Scrapping](https://github.com/THAANURK/FlipkartScrapper).
 
 ### Support or Contact
 
