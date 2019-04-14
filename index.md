@@ -43,7 +43,7 @@ Supported version : IOS 10 +
 Language used : Swift
 
 ```
-Clone the repo for more details [BCARD-AR](https://github.com/THAANURK/BCardAr).
+Clone the repo for more details [VAULTO](https://github.com/THAANURK/vaulto).
 
                                              Data scrapping
 
